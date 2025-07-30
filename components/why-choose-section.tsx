@@ -61,7 +61,7 @@ export function WhyChooseSection() {
               initial={{ y: 20, opacity: 0 }}
               animate={isInView ? { y: 0, opacity: 1 } : { y: 20, opacity: 0 }}
               transition={{ duration: 0.6, delay: 0.8 }}
-              className="absolute -top-8 -right-8 bg-blue-600 text-white p-6 rounded-xl shadow-xl"
+              className="absolute -top-8 -right-0 bg-blue-600 text-white p-6 rounded-xl shadow-xl"
             >
               <div className="text-center">
                 <div className="text-3xl font-bold">1+</div>
