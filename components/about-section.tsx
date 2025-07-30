@@ -118,7 +118,7 @@ export function AboutSection() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600">Call Us Any Time</p>
-                  <p className="text-lg font-semibold text-gray-800">+91 xxxxxxxxxx</p>
+                  <p className="text-lg font-semibold text-gray-800">+91 97142 52562</p>
                 </div>
               </div>
               <Button className="bg-blue-600 hover:bg-blue-700">Read More</Button>

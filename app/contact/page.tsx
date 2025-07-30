@@ -81,7 +81,7 @@ export default function ContactPage() {
       icon: MapPin,
       title: "Head Office",
       details: [
-        "18, Spinning,",
+        "18, Spinning",
         "Mill compound near,",
         "APMC market Mahuva,",
         "Bhavnagar - 364290,",

@@ -36,7 +36,7 @@ export function Header() {
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-1">
               <Phone className="w-4 h-4 text-blue-600" />
-              <span>+91 97142 52562</span>
+              <span>+91 9714252562</span>
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="w-4 h-4 text-blue-600" />
@@ -76,11 +76,7 @@ export function Header() {
               onClick={() =>
                 window.open(
                   "https://wa.me/919714252562?text=" +
-                  encodeURIComponent(`Hello , thank you for connecting with us!
-
-Welcome to *Cruzz Automation*  
-We're here to help you with marine and industrial products.  
-How can we assist you today?`),
+                  encodeURIComponent(`Hello, I would like to connect with you!`),
                   "_blank"
                 )
               }

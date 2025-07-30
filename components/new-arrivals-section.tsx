@@ -97,11 +97,7 @@ const [inquiryModal, setInquiryModal] = useState<{ isOpen: boolean; product: Pro
                       onClick={() =>
                         window.open(
                           "https://wa.me/919714252562?text=" +
-                          encodeURIComponent(`Hello , thank you for connecting with us!
-
-Welcome to *Cruzz Automation*  
-We're here to help you with marine and industrial products.  
-How can we assist you today?`),
+                          encodeURIComponent(`Hello, I would like to connect with you!`),
                           "_blank"
                         )
                       }
@@ -115,11 +111,7 @@ How can we assist you today?`),
                       onClick={() =>
                         window.open(
                           "https://wa.me/919714252562?text=" +
-                          encodeURIComponent(`Hello , thank you for connecting with us!
-
-Welcome to *Cruzz Automation*  
-We're here to help you with marine and industrial products.  
-How can we assist you today?`),
+                          encodeURIComponent(`Hello, I would like to connect with you!`),
                           "_blank"
                         )
                       }

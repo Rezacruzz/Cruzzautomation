@@ -84,7 +84,7 @@ How can we assist you today?`),
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-blue-400 mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">18, Spinning ,</p>
+                  <p className="text-gray-300">18, Spinning </p>
                   <p className="text-gray-300">Mill compound near, </p>
                   <p className="text-gray-300">APMC market Mahuva,</p>
                   <p className="text-gray-300">Bhavnagar - 364290</p>
