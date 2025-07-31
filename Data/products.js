@@ -1882,5 +1882,158 @@ export const products = [
       "Fishing vessels",
       "Turbocharger replacement or upgrades"
     ]
+  }, {
+    "id": 79,
+    "name": "Seaward Clare SafeCheck 8 Portable Appliance Tester",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/Seaward_Clare_list_1.jpeg?height=300&width=300",
+      "/assets/Products/Seaward_Clare_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A bench-mounted Portable Appliance Tester (PAT) for high-throughput electrical safety testing of Class I and Class II appliances at 125 VAC.",
+    "features": [
+      "Comprehensive PAT Testing",
+      "Bench-Mounted Design",
+      "Simple Operation",
+      "125 VAC Operation"
+    ],
+    "applications": [
+      "Electrical repair workshops",
+      "Product quality assurance labs",
+      "Appliance manufacturing lines",
+      "Compliance testing (PAT Certification)"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Hermetic UTI TAPE MK3-LBI Closed Gauging Gas-Tight Tape",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/Hermetic_UTI_list_1.jpeg?height=300&width=300",
+      "/assets/Products/Hermetic_UTI_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A precision closed gauging system with a 30-meter tape for accurate liquid level, temperature, and interface measurement in marine and industrial storage tanks.",
+    "features": [
+      "30-Meter Measuring Tape",
+      "Closed Gauging System",
+      "Gas-Tight Design",
+      "Triple Function Measurement"
+    ],
+    "applications": [
+      "Marine oil tanker UTI measurement",
+      "Petroleum and chemical storage tank gauging",
+      "Floating roof tank calibration",
+      "Custody transfer and inventory control"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Honeywell SM-RI-X-K Turbine Gas Flowmeter",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/HONEYWELL_SM-RI-X-K_list_1.jpeg?height=300&width=300",
+      "/assets/Products/HONEYWELL_SM-RI-X-K_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A high-precision turbine gas flowmeter for accurate volumetric flow measurement of natural gas, with a range of 20 to 400 m³/h and a 44 bar pressure rating.",
+    "features": [
+      "Wide Flow Range: 20–400 m³/h",
+      "High Pressure Rating: Up to 44 bar",
+      "Turbine Metering Technology",
+      "Pulse Output for Remote Monitoring"
+    ],
+    "applications": [
+      "Calibration of gas flow instruments and test benches",
+      "Custody transfer and billing metering",
+      "Industrial process gas flow measurement",
+      "Marine engine and fuel gas systems"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "GE Druck DPI 802P Pressure Loop Calibrator Kit",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/GE_DRUCK_DPI_list_1.jpeg?height=300&width=300",
+      "/assets/Products/GE_DRUCK_DPI_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A handheld pressure loop calibrator for accurate pressure measurement and instrumentation testing up to 3.5 Bar Gauge, widely used in marine and industrial automation.",
+    "features": [
+      "Pressure Measurement up to 3.5 Bar G",
+      "Built-in Loop Calibrator Functionality",
+      "Rugged, Field-Ready Design",
+      "User-Friendly Interface"
+    ],
+    "applications": [
+      "Calibration of pressure transmitters and sensors",
+      "Loop testing in automation and control systems",
+      "Marine hydraulic and pneumatic system diagnostics",
+      "Oil & gas process verification"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "ROSEMOUNT 3051 CDGA03A1KS5E2M5Q4Q8 Pressure Transmitter",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/ROSEMOUNT_3051_list_1.jpeg?height=300&width=300",
+      "/assets/Products/ROSEMOUNT_3051_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A high-performance differential pressure transmitter with a 5-valve manifold, designed for accurate low-pressure measurements up to 1000 inH₂O in industrial and marine environments.",
+    "features": [
+      "High Accuracy & Stability",
+      "Range: 1000 inH₂O",
+      "Integrated 5-Valve Manifold",
+      "HART Communication Protocol"
+    ],
+    "applications": [
+      "Calibration and test benches",
+      "Industrial process control",
+      "Flow measurement systems",
+      "Marine engine monitoring"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "HONEYWELL PP907A1008-1 Pressure Reducing Station",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/HONEYWELL_PP907A_list_1.jpeg?height=300&width=300",
+      "/assets/Products/HONEYWELL_PP907A_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A precision pressure reducing station with a sub-micron filter, engineered for accurate pressure regulation and contaminant-free air or gas supply in calibration labs and industrial systems.",
+    "features": [
+      "Accurate Pressure Regulation",
+      "Integrated Sub-Micron Filter",
+      "Robust Honeywell Design",
+      "Compact & Modular"
+    ],
+    "applications": [
+      "Calibration and testing labs",
+      "Industrial pneumatic systems",
+      "Process control and automation",
+      "Gas analysis and air quality testing"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "SPRIANO SET46 EX Pressure Transmitter",
+    "category": "calibration and measurement",
+    "listImage": [
+      "/assets/Products/SPRIANO_SET46_list_1.jpeg?height=300&width=300",
+      "/assets/Products/SPRIANO_SET46_list_2.jpeg?height=300&width=300"
+    ],
+    "description": "A high-precision pressure transmitter with a 4–20mA output, designed for accurate measurement in hazardous environments like offshore platforms and engine rooms.",
+    "features": [
+      "4–20mA Output Signal",
+      "Explosion-Proof Design (Ex Rated)",
+      "Robust & Corrosion-Resistant Housing",
+      "High Accuracy & Long-Term Stability"
+    ],
+    "applications": [
+      "Marine engine pressure monitoring",
+      "Oil & gas pressure control systems",
+      "Process automation and control",
+      "Hazardous area instrumentation"
+    ]
   }
 ];
