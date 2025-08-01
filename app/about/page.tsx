@@ -55,7 +55,7 @@ export default function AboutPage() {
       {/* Company Story */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="grid lg:grid-cols-2 gap-16 2xl:gap-[16rem] items-center">
+          <div className="grid lg:grid-cols-2 gap-15 2xl:gap-0 items-center">
             <motion.div
               initial={{ x: -50, opacity: 0 }}
               whileInView={{ x: 0, opacity: 1 }}
@@ -81,18 +81,30 @@ export default function AboutPage() {
             </motion.div>
 
             <motion.div
-              initial={{ x: 50, opacity: 0 }}
-              whileInView={{ x: 0, opacity: 1 }}
-              transition={{ duration: 0.8 }}
-              viewport={{ once: true }}
-              className="relative"
-            >
-              <img
-                src="/assets/Images/owner.jpeg"
-                alt="Cruzz Automation"
-                className="w-[390px] h-[500px] object-cover object-center rounded-2xl shadow-lg"
-              />
-            </motion.div>
+  initial={{ x: 50, opacity: 0 }}
+  whileInView={{ x: 0, opacity: 1 }}
+  transition={{ duration: 0.8 }}
+  viewport={{ once: true }}
+  className="relative flex gap-8 flex-wrap justify-center"
+>
+  {/* Founder */}
+  <div className="relative">
+    <img
+      src="/assets/Images/owner.jpeg"
+      alt="Founder"
+      className="w-[350px] h-[460px] object-cover object-center rounded-2xl shadow-lg"
+    />
+    <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-full bg-blue-600/90 backdrop-blur-sm px-6 py-3 text-center rounded-b-2xl">
+      <p className="font-semibold text-white text-lg">Mr. Mohammed Reza</p>
+      <p className="text-sm text-blue-100">Co-Founder at cruzz Automation </p>
+    </div>
+    
+
+  </div>
+
+ 
+</motion.div>
+
           </div>
         </div>
       </section>
