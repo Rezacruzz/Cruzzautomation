@@ -1772,7 +1772,7 @@ export const products = [
   {
     id: 75,
     name: "Volvo Penta D4 Turbocharger 3582769 / 50368717",
-    category: "Turbo",
+    category: " Turbocharger",
     listImage: [
       "/assets/Products/Volvo_Penta_D4_Turbocharger_3582769_list_1.jpeg?height=300&width=300"
     ],
@@ -1795,7 +1795,7 @@ export const products = [
   {
     id: 76,
     name: "Volvo Penta TAMD40 Diesel Engine Turbocharger 3802033",
-    category: "Turbo",
+    category: " Turbocharger",
     listImage: [
       "/assets/Products/Volvo_Penta_TAMD40_list_1.jpeg?height=300&width=300"
     ],
@@ -1818,7 +1818,7 @@ export const products = [
   {
     id: 77,
     name: "Volvo Penta D6 Marine Turbocharger 3802151",
-    category: "Turbo",
+    category: " Turbocharger",
     listImage: [
       "/assets/Products/Volvo_Penta_D6_Boat_list_1.jpeg?height=300&width=300"
     ],
@@ -1840,7 +1840,7 @@ export const products = [
   {
     id: 78,
     name: "K26 Turbocharger 5326-970-6492 for Volvo TAMD40 Series",
-    category: "Turbo",
+    category: " Turbocharger",
     listImage: [
       "/assets/Products/K26_Turbocharger_5326_list_1.jpeg?height=300&width=300"
     ],
@@ -1863,7 +1863,7 @@ export const products = [
   {
     id: 79,
     name: "Turbo K26 Turbocharger 53269886292 for Volvo TAMD41 / Yanmar 4LH-DTE",
-    category: "Turbo",
+    category: " Turbocharger",
     listImage: [
       "/assets/Products/Turbo_K26_Turbocharger_list_1.jpeg?height=300&width=300"
     ],
