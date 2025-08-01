@@ -1305,7 +1305,7 @@ export const products = [
     category: "Alarm And Safety",
     listImage: [
       "/assets/Products/AUTRONICA_BG-21_list_1.jpeg?height=300&width=300",
-      "/assets/Products/AUTRONICA_BG-21_list_2.jpeg?height=300&width=300"
+      "/assets/Products/AUTRONICA_BG-21__list_2.jpeg?height=300&width=300"
     ],
     description: "Highly sensitive IR flame detector for rapid detection of hydrocarbon-based fires in marine and industrial settings.",
     features: [
