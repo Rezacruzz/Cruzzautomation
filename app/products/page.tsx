@@ -37,7 +37,7 @@ const productCategories = [
   { id: "marine navigation systems", name: "Radar and Navigation " },
   { id: "Alarm And Safety", name: "Alarm And Safety" },
   { id: "Pneumatic air chain", name: "Pneumatic air chain" },
-  { id: "Turbocharger ", name: "Turbocharger " },
+  { id: "Turbocharger", name: "Turbocharger " },
 ];
 
 export default function ProductsPage() {
